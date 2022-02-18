@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:591627
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXTINF:10.0,
+https://cdn12jtedge.useetv.com/joss/130/rodjatv/media_w7715899232_b1004100_sleng_591624.ts
+#EXTINF:10.0,
+https://cdn12jtedge.useetv.com/joss/130/rodjatv/media_w7715899232_b1004100_sleng_591625.ts
+#EXTINF:10.0,
+https://cdn12jtedge.useetv.com/joss/130/rodjatv/media_w7715899232_b1004100_sleng_591626.ts
